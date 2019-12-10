@@ -90,12 +90,7 @@ function draw() {
   sphere(80, 20, 20)
   pop()
 
-  //text
-  push()
-  fill(255)
-  text("UP ARROW to keep the light on, ENTER to change camera", 300, 300, 300, 10)
-  textSize(30)
-  pop()
+
 }
 
 
